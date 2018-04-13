@@ -13,7 +13,7 @@ using kCura.Relativity.Client.DTOs;
 using kCura.Relativity.Client.Repositories;
 using kCura.Utility.CertificateGenerator;
 using Relativity.API;
-//This version focuses on FULL BUILDS currently THIS IS INCREMENTAL
+//This version focuses on FULL BUILDS currently 
 namespace AutoBuilddtIndex
 {
     [kCura.Agent.CustomAttributes.Name("Auto Build New dtIndexes")]
